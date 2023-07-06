@@ -9,21 +9,16 @@ function App() {
     <>
     <div className="App">
 
-      <h1 >WELCOME</h1>
-      <h2>Welcome to React</h2>
-      <h4> two plus two is: {basicVar}</h4>
-
-      <h5>the time is {(new Date().getHours())}.00 hours</h5>
+      <h1 >HELLO DOJO!</h1>
+      <h2>Things I need to do:</h2>
 
 
       <ul></ul>
-      <li>its cool</li>
-      <li>single page</li>
+      <li>learn react</li>
+      <li>Climb Mt.Everest</li>
+      <li>Run a marathon</li>
+      <li>Feed the dogs</li>
 
-
-      <div className="myBox" >
-
-      </div>
 
 
 
